@@ -38,7 +38,7 @@ Keybinds:
 -O: Heal Potion <br />
 -Esc: Pause <br />
 
-Cheat Codes:
+Cheat Codes: <br />
 -Left Arrow: Lose Health <br />
 -Right Arrow: Gain Health <br />
 -Up Arrow: Give Attack Potion <br />
